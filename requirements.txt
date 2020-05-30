@@ -6,7 +6,7 @@ gitdb2==2.0.6
 GitPython==3.0.5
 gym==0.15.4
 gym-super-mario-bros==7.3.0
-mkl-fft==1.0.15
+mkl-fft==1.0.0.17
 mkl-random==1.1.0
 mkl-service==2.3.0
 nes-py==8.1.1

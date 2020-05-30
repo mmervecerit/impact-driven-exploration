@@ -24,4 +24,4 @@ smmap2==2.0.5
 torch==1.1.0
 torchvision==0.3.0
 tqdm==4.40.2
-vizdoom==1.1.7
+

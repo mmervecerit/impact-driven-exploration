@@ -1,3 +1,11 @@
+#Experiments/Updates on RIDE:
+
+-make it up-to-date so it runs on Collab
+-edit the world model 
+-don't clone this repo yet!
+
+
+
 # RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments
 
 This is an implementation of the method proposed in <a href="https://openreview.net/pdf?id=rkg-TJBFPB">RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments</a>, which was published at ICLR 2020. The code includes all the baselines and ablations used in the paper. 

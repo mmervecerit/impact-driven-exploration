@@ -4,7 +4,7 @@ make it up-to-date so it runs on Collab
 
 edit the world model 
 
-don't clone this repo yet!
+don't clone this repo yet!(except Tal) 
 
 
 

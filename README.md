@@ -40,9 +40,9 @@ pip install -e .
 ```
 cd impact-driven-exploration
 
-OMP_NUM_THREADS=1 python main.py --model ride --env MiniGrid-MultiRoom-N12-S10-v0 
+OMP_NUM_THREADS=1 python main.py --model ride --env MiniGrid-MultiRoom-N2-S4-v0
 
-OMP_NUM_THREADS=1 python main.py --model ride --env MiniGrid-MultiRoom-N10-S4-v0 --intrinsic_reward_coef 0.1 --entropy_cost 0.0005
+OMP_NUM_THREADS=1 python main.py --model ride --env MiniGrid-MultiRoom-N6-v0 --intrinsic_reward_coef 0.1 --entropy_cost 0.0005
 ```
 
 ## Acknowledgements

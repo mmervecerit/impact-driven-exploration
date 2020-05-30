@@ -1,8 +1,10 @@
-#Experiments/Updates on RIDE:
+# Experiments/Updates on RIDE:
 
--make it up-to-date so it runs on Collab
--edit the world model 
--don't clone this repo yet!
+make it up-to-date so it runs on Collab
+
+edit the world model 
+
+don't clone this repo yet!
 
 
 

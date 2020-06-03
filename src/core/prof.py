@@ -63,7 +63,6 @@ class Timings:
 
         result = prefix
         for k in sorted(means, key=means.get, reverse=True):
-            result += f'\n    %s: %.6fms +- %.6fms (%.2f%%) ' % (
-                k, 1000 * means[k], 1000 * stds[k], 100 * means[k] / total)
+            result += f'\n    %s: %.6fms +- %.6fms (%.2f%%) ' % (k, 1000 * means[k], 1000 * stds[k], 100 * means[k] / total)
         result += '\nTotal: %.6fms' % (1000 * total)
         return result
